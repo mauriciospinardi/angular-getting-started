@@ -1,24 +1,14 @@
 # Angular: Getting started
 
-Este repositório se destina a seguir os passos do tutorial de início rápido para
-_framework_ Angular, disponível em
-[angular.io](https://angular.io/guide/quickstart)
+_Quick start_ para Angular, conforme tutorial em [angular.io](https://angular.io/guide/quickstart).  
+Gerado para [Angular CLI](https://github.com/angular/angular-cli) 10.0.7.  
 
-## Pré-requisitos
+## Ambiente de desenvolvimento
 
-Antes de mais nada, é preciso ter certeza de que o ambiente de desenvolvimento
-inclui o redistribuível _Node.js®_ e o pacote de gerenciamento _npm_
+- Node.js® LTS
+- npm package manager
 
-### _Node.js®_
+## Operacionalização
 
-Este repositório depende da versão **10.15.1 LTS** do redistribuível _Node.js®_
-
-- Para verificar a versão instalada, execute `node -v` em uma janela de
-  comandos;
-- Para obter uma nova versão, utilize o link
-  [nodejs.org](https://nodejs.org/en/)
-
-### _npm package manager_
-
-O tutorial de início rápido utiliza o cliente _npm_ via linha de comando,
-instalado juntamente com o redistribuível _Node.js®_
+1. ```ng serve --open```
+   - para lançar o servidor, (re)construir e lançar a aplicação
