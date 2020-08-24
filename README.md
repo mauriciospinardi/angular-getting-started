@@ -1,14 +1,15 @@
 # Angular: Getting started
 
-_Quick start_ para Angular, conforme tutorial em [angular.io](https://angular.io/guide/quickstart).  
-Gerado para [Angular CLI](https://github.com/angular/angular-cli) 10.0.7.  
+_Quick start_ para Angular, conforme
+[angular.io](https://angular.io/guide/quickstart).  
 
 ## Ambiente de desenvolvimento
 
-- Node.js® LTS
-- npm package manager
+- Node.js® 12.18.3 LTS
+  - npm package manager 6.14.6
+- Angular CLI 10.0.7
 
-## Operacionalização
+## Modo de operação
 
 1. ```ng serve --open```
    - para lançar o servidor, (re)construir e lançar a aplicação
